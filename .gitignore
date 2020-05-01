@@ -1,0 +1,7 @@
+# build directories
+build
+cmake-build-debug
+.pytest_cache
+.idea
+
+*.gz

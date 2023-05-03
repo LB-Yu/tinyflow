@@ -3,8 +3,8 @@ differentiation and GPU acceleration. TinyFlow currently provides all the operat
 to build a multilayer perceptron models (MLP).
 
 If you want to learn more about the principles behind Tinyflow, the following two blog posts may provide a lot of intuition.
-+ [Automatic Differentiation Based on Computation Graph](https://lb-yu.github.io/2019/07/22/Automatic-Differentiation-Based-on-Computation-Graph/)
-+ [Tinyflow - A Simple Neural Network Framework](https://lb-yu.github.io/2019/07/23/Tinyflow-A-Simple-Neural-Network-Framework/)
++ [Automatic Differentiation Based on Computation Graph](https://liebing.org.cn/automatic-differentiation.html)
++ [Tinyflow - A Simple Neural Network Framework](https://liebing.org.cn/tinyflow.html)
 
 # Install
 Tinyflow currently only supports running in 64-bit linux environment. Requirement:
